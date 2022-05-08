@@ -1,0 +1,9 @@
+body {
+  font-family: Helvetica, sans-serif !important;
+  background: linear-gradient(60deg, rgb(52, 211, 255) , rgb(128, 0, 255));
+  background-repeat: no-repeat;
+  height: 94.8vh;
+}
+.list-group i:hover{
+  cursor: pointer;
+}
