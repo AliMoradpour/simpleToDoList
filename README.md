@@ -2,5 +2,5 @@
 
 in This project i worked with localStorage
 
-View The Project Online : 
+Take a look at the project : 
 https://superlative-puppy-45960f.netlify.app/
